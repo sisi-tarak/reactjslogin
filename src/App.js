@@ -1,5 +1,4 @@
-import './App.css';
-import LogIn from './LogIn';
+import LogIn from "./Components/LogIn";
 
 
 function App() {
